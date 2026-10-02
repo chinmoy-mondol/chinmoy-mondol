@@ -4,7 +4,7 @@ I'm a software quality engineer by profession, currently testing AI-driven produ
 
 #### 📄 Publications
 - **Integrating Visual Data in Conversational AI: A Study on LangChain Custom Tools for Image-Based Interaction**  
-  A. K. Nuhel, A. S. Taha, M. Ibrahim, M. I. Oishy, **C. Mondol**, M. T. I. Sifat  
+  A. K. Nuhel, A. S. Taha, M. Ibrahim, M. I. Oishy, **C. Mondol**, et al.  
   IEEE MPSec ICETA 2025 · [Paper](https://doi.org/10.1109/MPSecICETA64837.2025.11118796)
 - **Music Suggestions from Determining the Atmosphere of Images**  
   S. I. Sohel, **C. Mondol**, H. S. Ayon, U. T. Islam, M. K. Morol  
