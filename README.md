@@ -14,4 +14,4 @@ I'm a software quality engineer by profession, currently testing AI-driven produ
 Python · TensorFlow · Keras · scikit-learn · OpenCV · LangChain · Docker · SQL
 
 #### 🔗 Find me
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=4QFKDIcAAAAJ) · [ORCID](https://orcid.org/0009-0002-2313-2439) · [LinkedIn](https://www.linkedin.com/in/chinmoymondol)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=4QFKDIcAAAAJ) · [ORCID](https://orcid.org/0009-0002-2313-2439) · [ResearchGate](https://www.researchgate.net/profile/Chinmoy-Mondol) · [LinkedIn](https://www.linkedin.com/in/chinmoymondol)
